@@ -5,7 +5,7 @@
 
 ## ⬇️ 내려받기
 
-**[최신 버전 내려받기 (Releases)](../../releases/latest)** → `근태신고서_자동작성_v○.○.○.zip` 을 받으세요.
+**[최신 버전 내려받기 (Releases)](../../releases/latest)** → 페이지 아래쪽 Assets의 **근태신고서 자동 작성 v○.○.○ (Windows용 ZIP)** 을 받으세요. (GitHub 가입 필요 없음)
 
 Python 등 다른 프로그램을 설치할 필요가 없습니다.
 
